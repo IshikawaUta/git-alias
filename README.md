@@ -68,5 +68,3 @@ source ~/.zshrc
 ```
 
 Sekarang Anda dapat mulai menggunakan alias Git yang lebih pendek dan lebih efisien\! 🎉
-
-```
