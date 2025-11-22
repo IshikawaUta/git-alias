@@ -24,6 +24,8 @@ Berikut adalah daftar alias lengkap yang disediakan oleh plugin ini, dikelompokk
 | `gpo` | `git push origin main` | Mendorong perubahan ke *branch* `main` di `origin`. |
 | `gpom` | `git push -u origin main` | Mendorong perubahan dan mengatur *upstream* ke `origin/main` untuk penarikan di masa depan. |
 | `gplm` | `git pull origin main` | Menarik (pull) perubahan dari *branch* `main` di `origin`. |
+| **Cloning** | | |
+| `gcln` | `git clone` | Membuat salinan lokal dari repositori Git jarak jauh yang sudah ada. |
 
 ***
 
